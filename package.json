@@ -1,0 +1,14 @@
+{
+  "name": "rn-fonts",
+  "private": true,
+  "description": "React Native font packages under @88khp, with an add-font CLI",
+  "workspaces": [
+    "packages/*",
+    "tools/*"
+  ],
+  "scripts": {
+    "generate": "node tools/font-generator/generate.js",
+    "catalog": "node tools/font-generator/build-catalog.js"
+  },
+  "license": "MIT"
+}

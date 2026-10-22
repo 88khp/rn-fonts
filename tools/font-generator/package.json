@@ -1,0 +1,11 @@
+{
+  "name": "@88khp/rn-font-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generates src/index.ts and README.md for a font package from its .ttf files",
+  "main": "generate.js",
+  "license": "MIT",
+  "dependencies": {
+    "fontkit": "^2.0.4"
+  }
+}
