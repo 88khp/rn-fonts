@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrn_fonts_website=self.webpackChunkrn_fonts_website||[]).push([[647],{7121(e,s,r){r.r(s),r.d(s,{default:()=>i});r(6540);var n=r(4164),t=r(7559),u=r(5500),a=r(2831),c=r(1656),f=r(4848);function i(e){return(0,f.jsx)(u.e3,{className:(0,n.A)(t.G.wrapper.docsPages),children:(0,f.jsx)(c.A,{children:(0,a.v)(e.route.routes)})})}}}]);
