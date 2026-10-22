@@ -1,0 +1,220 @@
+{
+  "fonts": [
+    {
+      "name": "@88khp/rn-font-inter",
+      "version": "1.0.0",
+      "description": "Inter font package for React Native",
+      "export": "interFonts",
+      "families": {
+        "inter18pt": [
+          "100",
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700",
+          "800",
+          "900",
+          "100i",
+          "200i",
+          "300i",
+          "400i",
+          "500i",
+          "600i",
+          "700i",
+          "800i",
+          "900i"
+        ],
+        "inter24pt": [
+          "100",
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700",
+          "800",
+          "900",
+          "100i",
+          "200i",
+          "300i",
+          "400i",
+          "500i",
+          "600i",
+          "700i",
+          "800i",
+          "900i"
+        ],
+        "inter28pt": [
+          "100",
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700",
+          "800",
+          "900",
+          "100i",
+          "200i",
+          "300i",
+          "400i",
+          "500i",
+          "600i",
+          "700i",
+          "800i",
+          "900i"
+        ]
+      }
+    },
+    {
+      "name": "@88khp/rn-font-jakartasans",
+      "version": "1.0.2",
+      "description": "Plus Jakarta Sans font package for React Native",
+      "export": "plusFonts",
+      "families": {
+        "plusJakartaSans": [
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700",
+          "800",
+          "200i",
+          "300i",
+          "400i",
+          "500i",
+          "600i",
+          "700i",
+          "800i"
+        ]
+      }
+    },
+    {
+      "name": "@88khp/rn-font-manrope",
+      "version": "1.0.2",
+      "description": "Manrope font package for React Native",
+      "export": "manropeFonts",
+      "families": {
+        "manrope": [
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700",
+          "800"
+        ]
+      }
+    },
+    {
+      "name": "@88khp/rn-font-newsreader",
+      "version": "1.0.2",
+      "description": "Newsreader font package for React Native",
+      "export": "newsreaderFonts",
+      "families": {
+        "newsreader14pt": [
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700",
+          "800",
+          "200i",
+          "300i",
+          "400i",
+          "500i",
+          "600i",
+          "700i",
+          "800i"
+        ],
+        "newsreader24pt": [
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700",
+          "800",
+          "200i",
+          "300i",
+          "400i",
+          "500i",
+          "600i",
+          "700i",
+          "800i"
+        ],
+        "newsreader36pt": [
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700",
+          "800",
+          "200i",
+          "300i",
+          "400i",
+          "500i",
+          "600i",
+          "700i",
+          "800i"
+        ],
+        "newsreader60pt": [
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700",
+          "800",
+          "200i",
+          "300i",
+          "400i",
+          "500i",
+          "600i",
+          "700i",
+          "800i"
+        ],
+        "newsreader9pt": [
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700",
+          "800",
+          "200i",
+          "300i",
+          "400i",
+          "500i",
+          "600i",
+          "700i",
+          "800i"
+        ]
+      }
+    },
+    {
+      "name": "@88khp/rn-font-poppins",
+      "version": "1.0.0",
+      "description": "Poppins font package for React Native",
+      "export": "poppinsFonts",
+      "families": {
+        "poppins": [
+          "100",
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700",
+          "800",
+          "900"
+        ]
+      }
+    }
+  ]
+}

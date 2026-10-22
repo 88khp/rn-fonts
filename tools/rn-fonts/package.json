@@ -1,0 +1,26 @@
+{
+  "name": "@88khp/rn-fonts",
+  "version": "1.0.0",
+  "description": "Pick React Native font packages from the 88khp catalog and add them to your app",
+  "bin": {
+    "rn-fonts": "bin/rn-fonts.js"
+  },
+  "files": [
+    "bin",
+    "catalog.json"
+  ],
+  "keywords": [
+    "react-native",
+    "fonts",
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/88khp/rn-fonts.git",
+    "directory": "tools/rn-fonts"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
