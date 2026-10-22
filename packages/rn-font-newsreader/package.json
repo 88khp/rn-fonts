@@ -1,0 +1,34 @@
+{
+  "name": "@88khp/rn-font-newsreader",
+  "version": "1.0.2",
+  "description": "Newsreader font package for React Native",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "author": "88khp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/88khp/rn-fonts.git",
+    "directory": "packages/rn-font-newsreader"
+  },
+  "keywords": [
+    "react-native",
+    "fonts",
+    "typography"
+  ],
+  "files": [
+    "dist",
+    "assets/fonts",
+    "react-native.config.js"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
