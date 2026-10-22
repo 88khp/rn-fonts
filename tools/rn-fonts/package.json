@@ -2,6 +2,7 @@
   "name": "@88khp/rn-fonts",
   "version": "1.0.0",
   "description": "Pick React Native font packages from the 88khp catalog and add them to your app",
+  "homepage": "https://88khp.github.io/rn-fonts/",
   "bin": {
     "rn-fonts": "bin/rn-fonts.js"
   },

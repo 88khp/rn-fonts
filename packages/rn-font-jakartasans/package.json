@@ -2,6 +2,7 @@
   "name": "@88khp/rn-font-jakartasans",
   "version": "1.0.2",
   "description": "Plus Jakarta Sans font package for React Native",
+  "homepage": "https://88khp.github.io/rn-fonts/",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
